@@ -267,3 +267,67 @@ ul.wmuSliderPagination {
     height: 100%;
     display: block;
 }
+.works-section {
+	padding: 2em 0;
+			}
+.works-header h3 {
+	font-size: 2em;
+			}
+.works-header p {
+	padding: 15px 0;
+			}
+.sap_tabs{
+	clear:both;
+	padding: 0em 0 0em;
+}
+.tab_box{
+	background:#fd926d;
+	padding: 2em;
+}
+.top1{
+	margin-top: 2%;
+}
+.resp-tabs-list {
+text-align:right;
+  list-style: none;
+    margin: 18px 0;
+    padding: 0;
+}
+.resp-tab-item{
+      padding: 7px 10px;
+    text-decoration: none;
+    color: #fff;
+     font-size: 1.1em;
+    font-weight: 400;
+      margin: 0 0.3em;
+	cursor: pointer;
+	display: inline-block;
+	list-style: none;
+	outline: none;
+	-webkit-transition: all 0.3s ease-out;
+	-moz-transition: all 0.3s ease-out;
+	-ms-transition: all 0.3s ease-out;
+	-o-transition: all 0.3s ease-out;
+	transition: all 0.3s ease-out;
+	text-transform:uppercase;
+}
+.resp-tab-active,.resp-tab-item:hover{
+  text-shadow: none;
+  color:#ef664d;
+}
+.resp-tabs-container {
+	padding: 0px;
+	clear: left;
+	
+}
+h2.resp-accordion {
+	cursor: pointer;
+	padding: 5px;
+	display: none;
+}
+.resp-tab-content {
+	display: none;
+}
+.resp-content-active, .resp-accordion-active {
+   display: block;
+}
